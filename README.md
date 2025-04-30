@@ -18,7 +18,8 @@
     
     ```jsx
     console.log("Largura da janela:", window.innerWidth);
-    ```  
+    ```    
+
     
 # 🧩 Selecionando elementos
 
