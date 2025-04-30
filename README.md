@@ -1,5 +1,3 @@
----
-
 # 🌐 Objeto `“window”`
 
 1. Exiba no console a URL da página atual.
