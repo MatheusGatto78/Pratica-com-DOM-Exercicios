@@ -22,6 +22,11 @@
     
     
 
+
+
+
+
+
 # 🧩 Selecionando elementos
 
 1. Selecione e exiba todas as imagens da página.
