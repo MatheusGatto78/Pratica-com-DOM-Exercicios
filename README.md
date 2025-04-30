@@ -19,14 +19,8 @@
     ```jsx
     console.log("Largura da janela:", window.innerWidth);
     ```
+
     
-    
-
-
-
-
-
-
 # 🧩 Selecionando elementos
 
 1. Selecione e exiba todas as imagens da página.
