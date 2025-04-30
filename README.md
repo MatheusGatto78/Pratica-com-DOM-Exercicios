@@ -50,7 +50,7 @@
     
     
 
-1. Selecione o primeiro <h2> dentro do elemento com a classe .introducao.
+1. Selecione o primeiro h2 dentro do elemento com a classe .introducao.
     
     ```jsx
     const primeiroH2 = document.querySelector('.introducao h2');
